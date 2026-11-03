@@ -1,0 +1,381 @@
+{
+  "hero/rose-hero": {
+    "source": "Fotos-profissionais-sem-fundo/IMG_1143.JPG.png",
+    "srcWidth": 1589,
+    "srcHeight": 3480,
+    "files": [
+      {
+        "w": 480,
+        "h": 1051,
+        "avif": "19 KB",
+        "webp": "56 KB"
+      },
+      {
+        "w": 800,
+        "h": 1752,
+        "avif": "32 KB",
+        "webp": "118 KB"
+      },
+      {
+        "w": 1200,
+        "h": 2628,
+        "avif": "48 KB",
+        "webp": "242 KB"
+      },
+      {
+        "w": 1400,
+        "h": 3066,
+        "avif": "57 KB",
+        "webp": "318 KB"
+      }
+    ]
+  },
+  "equipe/rose-fundadora": {
+    "source": "Fotos-profissionais-sem-fundo/IMG_1144.JPG.png",
+    "srcWidth": 2345,
+    "srcHeight": 3639,
+    "files": [
+      {
+        "w": 480,
+        "h": 745,
+        "avif": "16 KB",
+        "webp": "46 KB"
+      },
+      {
+        "w": 800,
+        "h": 1241,
+        "avif": "25 KB",
+        "webp": "93 KB"
+      },
+      {
+        "w": 1200,
+        "h": 1862,
+        "avif": "37 KB",
+        "webp": "176 KB"
+      }
+    ]
+  },
+  "resultados/mechas-morena": {
+    "source": "Fotos-instagram/resultado-mechas-morena.jpg",
+    "srcWidth": 720,
+    "srcHeight": 1280,
+    "files": [
+      {
+        "w": 480,
+        "h": 853,
+        "avif": "24 KB",
+        "webp": "35 KB"
+      },
+      {
+        "w": 720,
+        "h": 1280,
+        "avif": "39 KB",
+        "webp": "60 KB"
+      }
+    ]
+  },
+  "resultados/loiro-iluminado": {
+    "source": "Fotos-instagram/resultado-loiro-iluminado.jpg",
+    "srcWidth": 640,
+    "srcHeight": 1136,
+    "files": [
+      {
+        "w": 480,
+        "h": 852,
+        "avif": "8 KB",
+        "webp": "14 KB"
+      },
+      {
+        "w": 640,
+        "h": 1136,
+        "avif": "13 KB",
+        "webp": "21 KB"
+      }
+    ]
+  },
+  "resultados/mechas-loiras": {
+    "source": "Fotos-instagram/resultado-mechas-loiras.jpg",
+    "srcWidth": 720,
+    "srcHeight": 1280,
+    "files": [
+      {
+        "w": 480,
+        "h": 853,
+        "avif": "18 KB",
+        "webp": "28 KB"
+      },
+      {
+        "w": 720,
+        "h": 1280,
+        "avif": "37 KB",
+        "webp": "53 KB"
+      }
+    ]
+  },
+  "resultados/cachos": {
+    "source": "Fotos-instagram/resultado-cachos.jpg",
+    "srcWidth": 720,
+    "srcHeight": 1280,
+    "files": [
+      {
+        "w": 480,
+        "h": 853,
+        "avif": "21 KB",
+        "webp": "29 KB"
+      },
+      {
+        "w": 720,
+        "h": 1280,
+        "avif": "33 KB",
+        "webp": "47 KB"
+      }
+    ]
+  },
+  "resultados/cabelo-make-evento": {
+    "source": "Fotos-instagram/resultado-transformacao-nathalia.jpg",
+    "srcWidth": 640,
+    "srcHeight": 1136,
+    "files": [
+      {
+        "w": 480,
+        "h": 852,
+        "avif": "23 KB",
+        "webp": "31 KB"
+      },
+      {
+        "w": 640,
+        "h": 1136,
+        "avif": "36 KB",
+        "webp": "46 KB"
+      }
+    ]
+  },
+  "resultados/make-penteado": {
+    "source": "Fotos-instagram/resultado-make-sarah.jpg",
+    "srcWidth": 720,
+    "srcHeight": 1280,
+    "files": [
+      {
+        "w": 480,
+        "h": 853,
+        "avif": "22 KB",
+        "webp": "30 KB"
+      },
+      {
+        "w": 720,
+        "h": 1280,
+        "avif": "42 KB",
+        "webp": "58 KB"
+      }
+    ]
+  },
+  "resultados/ciclo-capilar": {
+    "source": "Fotos-instagram/resultado-ciclo-capilar.jpg",
+    "srcWidth": 560,
+    "srcHeight": 700,
+    "files": [
+      {
+        "w": 480,
+        "h": 600,
+        "avif": "11 KB",
+        "webp": "16 KB"
+      },
+      {
+        "w": 560,
+        "h": 700,
+        "avif": "16 KB",
+        "webp": "20 KB"
+      }
+    ]
+  },
+  "resultados/afinamento-depois": {
+    "source": "Fotos-instagram/resultado-afinamento-antes-depois.jpg",
+    "srcWidth": 328,
+    "srcHeight": 410,
+    "files": [
+      {
+        "w": 328,
+        "h": 410,
+        "avif": "8 KB",
+        "webp": "11 KB"
+      }
+    ]
+  },
+  "resultados/calvicie-depois": {
+    "source": "Fotos-instagram/resultado-calvicie-antes-depois.jpg",
+    "srcWidth": 404,
+    "srcHeight": 505,
+    "files": [
+      {
+        "w": 404,
+        "h": 505,
+        "avif": "22 KB",
+        "webp": "31 KB"
+      }
+    ]
+  },
+  "resultados/efluvio-depois": {
+    "source": "Fotos-instagram/resultado-efluvio-antes-depois.jpg",
+    "srcWidth": 332,
+    "srcHeight": 415,
+    "files": [
+      {
+        "w": 332,
+        "h": 415,
+        "avif": "14 KB",
+        "webp": "17 KB"
+      }
+    ]
+  },
+  "resultados/loiro-equipe-reserva": {
+    "source": "Fotos-instagram/resultado-loiro-equipe.jpg",
+    "srcWidth": 720,
+    "srcHeight": 1280,
+    "files": [
+      {
+        "w": 480,
+        "h": 853,
+        "avif": "16 KB",
+        "webp": "23 KB"
+      },
+      {
+        "w": 720,
+        "h": 1280,
+        "avif": "25 KB",
+        "webp": "39 KB"
+      }
+    ]
+  },
+  "espaco/fachada": {
+    "source": "Fotos-instagram/espaco-fachada-roselaine.jpg",
+    "srcWidth": 1440,
+    "srcHeight": 1440,
+    "files": [
+      {
+        "w": 480,
+        "h": 480,
+        "avif": "9 KB",
+        "webp": "13 KB"
+      },
+      {
+        "w": 800,
+        "h": 800,
+        "avif": "18 KB",
+        "webp": "26 KB"
+      },
+      {
+        "w": 1200,
+        "h": 1200,
+        "avif": "28 KB",
+        "webp": "44 KB"
+      },
+      {
+        "w": 1440,
+        "h": 1440,
+        "avif": "35 KB",
+        "webp": "56 KB"
+      }
+    ]
+  },
+  "espaco/recepcao": {
+    "source": "Fotos-instagram/espaco-recepcao.jpg",
+    "srcWidth": 640,
+    "srcHeight": 800,
+    "files": [
+      {
+        "w": 480,
+        "h": 600,
+        "avif": "6 KB",
+        "webp": "9 KB"
+      },
+      {
+        "w": 640,
+        "h": 800,
+        "avif": "8 KB",
+        "webp": "13 KB"
+      }
+    ]
+  },
+  "espaco/parede-logo": {
+    "source": "Fotos-instagram/espaco-parede-logo.jpg",
+    "srcWidth": 480,
+    "srcHeight": 854,
+    "files": [
+      {
+        "w": 480,
+        "h": 854,
+        "avif": "5 KB",
+        "webp": "7 KB"
+      }
+    ]
+  },
+  "espaco/logo-planta": {
+    "source": "Fotos-instagram/espaco-logo-planta.jpg",
+    "srcWidth": 760,
+    "srcHeight": 950,
+    "files": [
+      {
+        "w": 480,
+        "h": 600,
+        "avif": "3 KB",
+        "webp": "5 KB"
+      },
+      {
+        "w": 760,
+        "h": 950,
+        "avif": "5 KB",
+        "webp": "10 KB"
+      }
+    ]
+  },
+  "equipe/equipe-grupo": {
+    "source": "Fotos-instagram/equipe-refuge.jpg",
+    "srcWidth": 1440,
+    "srcHeight": 959,
+    "files": [
+      {
+        "w": 480,
+        "h": 320,
+        "avif": "10 KB",
+        "webp": "13 KB"
+      },
+      {
+        "w": 800,
+        "h": 533,
+        "avif": "20 KB",
+        "webp": "27 KB"
+      },
+      {
+        "w": 1200,
+        "h": 799,
+        "avif": "33 KB",
+        "webp": "48 KB"
+      }
+    ]
+  },
+  "equipe/manicure": {
+    "source": "Fotos-instagram/equipe-manicure.jpg",
+    "srcWidth": 1440,
+    "srcHeight": 1920,
+    "files": [
+      {
+        "w": 480,
+        "h": 640,
+        "avif": "10 KB",
+        "webp": "16 KB"
+      },
+      {
+        "w": 800,
+        "h": 1067,
+        "avif": "20 KB",
+        "webp": "32 KB"
+      },
+      {
+        "w": 1200,
+        "h": 1600,
+        "avif": "35 KB",
+        "webp": "61 KB"
+      }
+    ]
+  }
+}
