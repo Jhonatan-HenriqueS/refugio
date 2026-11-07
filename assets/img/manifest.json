@@ -377,5 +377,137 @@
         "webp": "61 KB"
       }
     ]
+  },
+  "resultados/antes-depois-1": {
+    "source": "Fotos-novas-2026-11/antes-depois-1-montado.jpg",
+    "srcWidth": 800,
+    "srcHeight": 1000,
+    "files": [
+      {
+        "w": 480,
+        "h": 600,
+        "avif": "29 KB",
+        "webp": "45 KB"
+      },
+      {
+        "w": 640,
+        "h": 800,
+        "avif": "47 KB",
+        "webp": "69 KB"
+      },
+      {
+        "w": 800,
+        "h": 1000,
+        "avif": "64 KB",
+        "webp": "92 KB"
+      }
+    ]
+  },
+  "resultados/antes-depois-2": {
+    "source": "Fotos-novas-2026-11/antes-depois-2-antes.jpg + antes-depois-2-depois.jpg",
+    "srcWidth": 800,
+    "srcHeight": 1000,
+    "files": [
+      {
+        "w": 480,
+        "h": 600,
+        "avif": "40 KB",
+        "webp": "69 KB"
+      },
+      {
+        "w": 640,
+        "h": 800,
+        "avif": "65 KB",
+        "webp": "111 KB"
+      },
+      {
+        "w": 800,
+        "h": 1000,
+        "avif": "93 KB",
+        "webp": "157 KB"
+      }
+    ]
+  },
+  "resultados/antes-depois-3": {
+    "source": "Fotos-novas-2026-11/antes-depois-3-antes.jpg + antes-depois-3-depois.jpg",
+    "srcWidth": 800,
+    "srcHeight": 1000,
+    "files": [
+      {
+        "w": 480,
+        "h": 600,
+        "avif": "33 KB",
+        "webp": "53 KB"
+      },
+      {
+        "w": 640,
+        "h": 800,
+        "avif": "57 KB",
+        "webp": "91 KB"
+      },
+      {
+        "w": 800,
+        "h": 1000,
+        "avif": "86 KB",
+        "webp": "136 KB"
+      }
+    ]
+  },
+  "espaco/sala-atendimento": {
+    "source": "Fotos-novas-2026-11/sala-atendimento.jpg",
+    "srcWidth": 960,
+    "srcHeight": 1280,
+    "files": [
+      {
+        "w": 480,
+        "h": 640,
+        "avif": "32 KB",
+        "webp": "51 KB"
+      },
+      {
+        "w": 800,
+        "h": 1067,
+        "avif": "71 KB",
+        "webp": "114 KB"
+      },
+      {
+        "w": 960,
+        "h": 1280,
+        "avif": "95 KB",
+        "webp": "147 KB"
+      }
+    ]
+  },
+  "equipe/debora-procedimento": {
+    "source": "Fotos-novas-2026-11/parceira-debora-procedimento.jpg",
+    "srcWidth": 440,
+    "srcHeight": 490,
+    "files": [
+      {
+        "w": 440,
+        "h": 490,
+        "avif": "13 KB",
+        "webp": "18 KB"
+      }
+    ]
+  },
+  "equipe/inae-atendimento": {
+    "source": "Fotos-novas-2026-11/parceira-inae-atendimento.jpg",
+    "srcWidth": 640,
+    "srcHeight": 866,
+    "files": [
+      {
+        "w": 480,
+        "h": 650,
+        "avif": "17 KB",
+        "webp": "27 KB"
+      },
+      {
+        "w": 640,
+        "h": 866,
+        "avif": "29 KB",
+        "webp": "47 KB"
+      }
+    ]
   }
 }
