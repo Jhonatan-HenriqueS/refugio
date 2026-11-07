@@ -509,5 +509,49 @@
         "webp": "47 KB"
       }
     ]
+  },
+  "equipe/perfil-inae": {
+    "source": "Fotos-novas-2026-11/perfil-inae.jpg",
+    "srcWidth": 150,
+    "srcHeight": 150,
+    "files": [
+      {
+        "w": 150,
+        "h": 150
+      }
+    ]
+  },
+  "equipe/perfil-luana": {
+    "source": "Fotos-novas-2026-11/perfil-luana.jpg",
+    "srcWidth": 150,
+    "srcHeight": 150,
+    "files": [
+      {
+        "w": 150,
+        "h": 150
+      }
+    ]
+  },
+  "equipe/perfil-debora": {
+    "source": "Fotos-novas-2026-11/perfil-debora.jpg",
+    "srcWidth": 150,
+    "srcHeight": 150,
+    "files": [
+      {
+        "w": 150,
+        "h": 150
+      }
+    ]
+  },
+  "equipe/perfil-luis": {
+    "source": "Fotos-novas-2026-11/perfil-luis.jpg",
+    "srcWidth": 150,
+    "srcHeight": 150,
+    "files": [
+      {
+        "w": 150,
+        "h": 150
+      }
+    ]
   }
 }
